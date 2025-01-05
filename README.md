@@ -53,13 +53,9 @@ Output: A report is generated with a match score and a list of improvements
 📂 Project Structure:
 
 ├── Resume_ATS.ipynb            # Main Jupyter Notebook
-
 ├── data/                       # Folder containing sample resumes and job descriptions
-
 ├── results/                    # Folder to save similarity scores and feedback reports
-
 ├── README.md                   # Project Documentation
-
 ├── requirements.txt            # List of dependencies
 
 🎯 Use Cases:
